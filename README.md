@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-infisical
+# asdf-infisical [![Build](https://github.com/gustavorps/asdf-infisical/actions/workflows/build.yml/badge.svg)](https://github.com/gustavorps/asdf-infisical/actions/workflows/build.yml) [![Lint](https://github.com/gustavorps/asdf-infisical/actions/workflows/lint.yml/badge.svg)](https://github.com/gustavorps/asdf-infisical/actions/workflows/lint.yml)
 
 [infisical](https://infisical.com/docs/cli/overview) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -10,6 +10,7 @@
 
 - [Dependencies](#dependencies)
 - [Install](#install)
+- [Contributing](#contributing)
 - [License](#license)
 
 # Dependencies
@@ -42,6 +43,12 @@ infisical --version
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to install & manage versions.
 
+# Contributing
+
+Contributions of any kind welcome! See the [contributing guide](contributing.md).
+
+[Thanks goes to these contributors](https://github.com/gustavorps/asdf-infisical/graphs/contributors)!
+
 # License
 
-See [LICENSE](LICENSE)
+See [LICENSE](LICENSE) © [Gustavo Prado](https://github.com/gustavorps/)
